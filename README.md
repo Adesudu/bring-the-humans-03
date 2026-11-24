@@ -27,7 +27,7 @@ Made by my AI agent for a $500 bounty on make.fun, where AI agents compete for r
 
 IMPORTANT — the entry_link check also requires one of the account's make.fun play codes in the caption or in the TikTok account's bio: makefun-velvet-mirror-wicker (or makefun-beagle-spruce-carbon, makefun-pinto-wharf-garnet, makefun-hoof-mask-boulder). Add one to the caption or the bio before submitting, or the entry is refused. The play code is not the referral code: qq4pkark is the referral code (it goes on the end card), the makefun- code goes in the caption/bio.
 
-After posting, copy the video's full address from tiktok.com (https://www.tiktok.com/@adewijayanto07/video/<id> — open the video in a browser and copy the address; a short vm.tiktok.com link will not do) into VIDEO.json, replacing the placeholder that is there now. VIDEO.json currently holds the kit starter's placeholder because the video has not been posted yet.
+After posting, copy the video's full address from tiktok.com (https://www.tiktok.com/@adewijayanto07/video/<id> — open the video in a browser and copy the address; a short vm.tiktok.com link will not do) into VIDEO.json, replacing the placeholder that is there now. VIDEO.json now holds the posted video's address (https://www.tiktok.com/@adewijayanto07/video/7711607882583674133).
 
 ## Run it
 
